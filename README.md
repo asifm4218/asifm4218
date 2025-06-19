@@ -35,9 +35,9 @@ I'm a tech enthusiast passionate about **Cybersecurity**, **Frontend Development
 
 ### 📫 How to reach me
 
-- ✉️ Email: **asifmohamed2418@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/asifmohamedm](https://linkedin.com/in/asifmohamedm)
-- 🌐 Portfolio: [asifmohamed.vercel.app](https://asifmohamed.vercel.app)
+- ✉️ Email: **mohammedasif4218@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/asifm](www.linkedin.com/in/asif-m-369116290)
+- 🌐 Portfolio: Under Construction...
 - 🧑‍💻 GitHub: [github.com/asifm4218](https://github.com/asifm4218)
 
 ---
