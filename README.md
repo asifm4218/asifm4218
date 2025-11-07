@@ -22,7 +22,7 @@ I'm a tech enthusiast passionate about **Cybersecurity**, **Frontend Development
 - Frontend development with a focus on UX and performance
 - Community building and technical content creation
 
----
+----
 
 ### 💞️ I’m looking to collaborate on
 
