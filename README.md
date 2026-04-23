@@ -104,8 +104,8 @@ Cloud & DevSecOps ██████░░░░░░ 60%
 ---
 
 ## 🎯 Current Mission
-🚀 Preparing for **Cybersecurity Roles + GATE**  
-🔐 Building real-world **security tools & research projects**
+🚀 Preparing for Cybersecurity Roles + CEH
+🔐 Building real-world **security tools & research projects
 
 ---
 
